@@ -1,2 +1,1 @@
-# javascript_lab
-Ejercicios sobre javascript
+# Ejercicios sobre el laboratorio de Javascript
